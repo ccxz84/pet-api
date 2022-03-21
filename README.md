@@ -1,2 +1,0 @@
-# pet-api
-api server
